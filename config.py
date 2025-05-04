@@ -1,7 +1,8 @@
-ip_version_priority = "ipv6"
+ip_version_priority = "ipv4"
 
 source_urls = [
     "http://zb6.wsmywlkj.top",
+    "https://www.hd.ip-ddns.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
     #"https://live.zhoujie218.top/tv/iptv4.txt",
     #"https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     #"https://live.zbds.top/tv/iptv4.txt",
@@ -12,7 +13,6 @@ source_urls = [
     #"https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt",
     #"https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt",
     #"https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
-    #"https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
     #"https://lu.wqwqwq.sbs/tv.m3u",
     #"https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     #"https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
