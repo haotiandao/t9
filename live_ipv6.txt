@@ -2,7 +2,4 @@
 2025-05-04,https://gitee.com/IIII-9306/PAV/raw/master/Updatetime.mp4
 央视频道,#genre#
 卫视频道,#genre#
-少儿频道,#genre#
-影视频道,#genre#
-其他频道,#genre#
 
